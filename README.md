@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter Using Javascript
 A web-based currency converter application built using HTML, CSS, and JavaScript. This tool allows users to convert amounts between various currencies in real-time by fetching live exchange rates from an external API.
 
 Features
